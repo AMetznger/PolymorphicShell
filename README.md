@@ -9,7 +9,7 @@ December 25th, 2021
         Summary  
     </h2>  
 	 <div class="zeroclipboard-container position-absolute right-0 top-0">  
-			<pre>Code that uses a <a href="https://en.wikipedia.org/wiki/Polymorphic_engine">polymorphic engine</a> to mutate while keeping the original algorithm intact. <br><br><a href="">https://en.wikipedia.org/wiki/Polymorphic_code</a>
+			<pre>Code that uses a <a href="https://en.wikipedia.org/wiki/Polymorphic_engine">polymorphic engine</a> to mutate while keeping the original algorithm intact. <br><br><a href="https://en.wikipedia.org/wiki/Polymorphic_code">https://en.wikipedia.org/wiki/Polymorphic_code</a>
 			</pre>
 	</div>
 </div>  
